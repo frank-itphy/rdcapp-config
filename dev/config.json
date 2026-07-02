@@ -6,5 +6,8 @@
     "min": "1.1.6",
     "force_update": false
   },
-  "enable_feature_ads": true
+  "enable_feature_ads": true,
+  "ad_excluded_clinic_ids": [
+    "6a3b9a9d72cfca5d63e3a79f"
+  ]
 }

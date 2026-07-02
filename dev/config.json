@@ -7,5 +7,7 @@
     "force_update": false
   },
   "enable_feature_ads": true,
-  "ad_excluded_clinic_ids": []
+  "ad_excluded_clinic_ids": [
+    "69d49be7b893ed6c4b10803b"
+  ]
 }
